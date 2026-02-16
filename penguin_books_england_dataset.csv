@@ -1,0 +1,757 @@
+Company,Store,City,Genre,Customer_Age_Group,Units_Sold_Weekly,Price_Per_Book,Weekly_Revenue,Weekly_Profit,Yearly_Profit
+Penguin Random House,Waterstones,London,Science Fiction,18-25,152,17.56,2668.89,631.69,32848.01
+Penguin Random House,Waterstones,London,Science Fiction,26-40,121,15.18,1837.25,424.78,22088.54
+Penguin Random House,Waterstones,London,Science Fiction,41-60,264,8.7,2296.01,856.95,44561.47
+Penguin Random House,Waterstones,London,Science Fiction,60+,149,9.71,1447.45,477.91,24851.55
+Penguin Random House,Waterstones,London,Fantasy,18-25,358,19.64,7030.73,2576.68,133987.51
+Penguin Random House,Waterstones,London,Fantasy,26-40,343,8.01,2747.21,1094.6,56919.35
+Penguin Random House,Waterstones,London,Fantasy,41-60,210,11.65,2446.69,746.12,38798.31
+Penguin Random House,Waterstones,London,Fantasy,60+,285,8.28,2358.87,719.35,37406.21
+Penguin Random House,Waterstones,London,Horror,18-25,219,8.56,1874.64,740.02,38480.79
+Penguin Random House,Waterstones,London,Horror,26-40,320,13.47,4311.31,1539.29,80043.03
+Penguin Random House,Waterstones,London,Horror,41-60,100,12.59,1258.95,499.36,25966.69
+Penguin Random House,Waterstones,London,Horror,60+,180,18.32,3297.47,1108.15,57623.96
+Penguin Random House,Waterstones,Manchester,Science Fiction,18-25,378,8.78,3319.07,1293.7,67272.35
+Penguin Random House,Waterstones,Manchester,Science Fiction,26-40,365,14.76,5387.2,1492.7,77620.6
+Penguin Random House,Waterstones,Manchester,Science Fiction,41-60,395,9.17,3622.97,1220.38,63459.95
+Penguin Random House,Waterstones,Manchester,Science Fiction,60+,416,16.2,6738.85,2169.91,112835.1
+Penguin Random House,Waterstones,Manchester,Fantasy,18-25,313,8.41,2633.16,1005.51,52286.54
+Penguin Random House,Waterstones,Manchester,Fantasy,26-40,469,10.19,4777.62,1677.29,87219.16
+Penguin Random House,Waterstones,Manchester,Fantasy,41-60,439,10.5,4607.44,1444.62,75120.03
+Penguin Random House,Waterstones,Manchester,Fantasy,60+,240,18.11,4345.78,1260.06,65523.25
+Penguin Random House,Waterstones,Manchester,Horror,18-25,251,18.74,4703.22,1503.06,78158.86
+Penguin Random House,Waterstones,Manchester,Horror,26-40,353,11.92,4207.23,1321.44,68715.02
+Penguin Random House,Waterstones,Manchester,Horror,41-60,301,8.54,2571.36,681.58,35442.19
+Penguin Random House,Waterstones,Manchester,Horror,60+,257,16.97,4360.74,1342.84,69827.57
+Penguin Random House,Waterstones,Birmingham,Science Fiction,18-25,329,12.28,4040.46,1035.11,53825.9
+Penguin Random House,Waterstones,Birmingham,Science Fiction,26-40,429,11.31,4852.84,1258.12,65422.37
+Penguin Random House,Waterstones,Birmingham,Science Fiction,41-60,350,8.89,3113.11,1237.08,64328.19
+Penguin Random House,Waterstones,Birmingham,Science Fiction,60+,393,12.74,5006.26,1295.11,67345.61
+Penguin Random House,Waterstones,Birmingham,Fantasy,18-25,112,17.79,1991.98,680.01,35360.27
+Penguin Random House,Waterstones,Birmingham,Fantasy,26-40,212,17.48,3706.21,1190.4,61901.0
+Penguin Random House,Waterstones,Birmingham,Fantasy,41-60,280,15.81,4427.62,1695.74,88178.6
+Penguin Random House,Waterstones,Birmingham,Fantasy,60+,250,15.48,3869.89,1030.09,53564.52
+Penguin Random House,Waterstones,Birmingham,Horror,18-25,97,12.45,1207.63,403.07,20959.61
+Penguin Random House,Waterstones,Birmingham,Horror,26-40,342,16.76,5730.3,1876.74,97590.5
+Penguin Random House,Waterstones,Birmingham,Horror,41-60,84,13.67,1147.99,257.06,13366.97
+Penguin Random House,Waterstones,Birmingham,Horror,60+,180,17.13,3083.3,962.78,50064.34
+Penguin Random House,Waterstones,Leeds,Science Fiction,18-25,304,11.07,3366.14,700.45,36423.32
+Penguin Random House,Waterstones,Leeds,Science Fiction,26-40,256,13.13,3361.41,689.37,35847.24
+Penguin Random House,Waterstones,Leeds,Science Fiction,41-60,228,8.38,1909.99,625.11,32505.49
+Penguin Random House,Waterstones,Leeds,Science Fiction,60+,101,14.76,1490.69,505.5,26285.88
+Penguin Random House,Waterstones,Leeds,Fantasy,18-25,456,15.25,6955.37,2142.03,111385.74
+Penguin Random House,Waterstones,Leeds,Fantasy,26-40,78,10.75,838.16,180.54,9387.83
+Penguin Random House,Waterstones,Leeds,Fantasy,41-60,236,16.34,3855.63,1450.08,75404.06
+Penguin Random House,Waterstones,Leeds,Fantasy,60+,219,17.7,3875.74,1266.13,65838.75
+Penguin Random House,Waterstones,Leeds,Horror,18-25,183,13.48,2466.55,601.07,31255.58
+Penguin Random House,Waterstones,Leeds,Horror,26-40,389,18.71,7278.47,2240.81,116522.11
+Penguin Random House,Waterstones,Leeds,Horror,41-60,397,12.28,4873.4,1858.55,96644.53
+Penguin Random House,Waterstones,Leeds,Horror,60+,434,10.74,4659.09,1329.8,69149.79
+Penguin Random House,Waterstones,Liverpool,Science Fiction,18-25,165,12.23,2018.09,526.63,27384.88
+Penguin Random House,Waterstones,Liverpool,Science Fiction,26-40,247,14.13,3489.86,989.31,51444.21
+Penguin Random House,Waterstones,Liverpool,Science Fiction,41-60,214,16.31,3490.18,886.09,46076.91
+Penguin Random House,Waterstones,Liverpool,Science Fiction,60+,201,19.31,3882.3,1027.41,53425.51
+Penguin Random House,Waterstones,Liverpool,Fantasy,18-25,145,14.7,2131.1,598.34,31113.8
+Penguin Random House,Waterstones,Liverpool,Fantasy,26-40,367,19.66,7215.73,2832.1,147269.06
+Penguin Random House,Waterstones,Liverpool,Fantasy,41-60,344,13.97,4804.64,1250.05,65002.65
+Penguin Random House,Waterstones,Liverpool,Fantasy,60+,162,19.97,3235.61,819.76,42627.58
+Penguin Random House,Waterstones,Liverpool,Horror,18-25,51,14.03,715.64,150.5,7825.79
+Penguin Random House,Waterstones,Liverpool,Horror,26-40,273,18.9,5159.48,1279.1,66513.13
+Penguin Random House,Waterstones,Liverpool,Horror,41-60,179,14.37,2572.45,744.87,38733.2
+Penguin Random House,Waterstones,Liverpool,Horror,60+,247,10.9,2693.45,900.76,46839.69
+Penguin Random House,Waterstones,Bristol,Science Fiction,18-25,252,12.44,3133.84,778.54,40484.33
+Penguin Random House,Waterstones,Bristol,Science Fiction,26-40,343,12.41,4257.8,1390.0,72280.25
+Penguin Random House,Waterstones,Bristol,Science Fiction,41-60,247,12.79,3158.12,1147.3,59659.62
+Penguin Random House,Waterstones,Bristol,Science Fiction,60+,193,18.02,3478.56,918.88,47781.9
+Penguin Random House,Waterstones,Bristol,Fantasy,18-25,375,16.35,6131.16,2278.78,118496.46
+Penguin Random House,Waterstones,Bristol,Fantasy,26-40,301,16.13,4855.36,987.18,51333.38
+Penguin Random House,Waterstones,Bristol,Fantasy,41-60,196,12.18,2388.06,523.55,27224.48
+Penguin Random House,Waterstones,Bristol,Fantasy,60+,466,12.77,5951.22,1806.5,93937.75
+Penguin Random House,Waterstones,Bristol,Horror,18-25,409,9.65,3946.95,1058.63,55048.51
+Penguin Random House,Waterstones,Bristol,Horror,26-40,483,19.1,9223.52,3463.14,180083.12
+Penguin Random House,Waterstones,Bristol,Horror,41-60,148,10.74,1589.9,373.61,19427.89
+Penguin Random House,Waterstones,Bristol,Horror,60+,161,14.66,2360.65,722.19,37554.05
+Penguin Random House,Waterstones,Sheffield,Science Fiction,18-25,51,19.96,1017.71,400.04,20802.3
+Penguin Random House,Waterstones,Sheffield,Science Fiction,26-40,86,18.59,1598.88,380.12,19766.25
+Penguin Random House,Waterstones,Sheffield,Science Fiction,41-60,282,12.19,3437.73,1186.67,61706.96
+Penguin Random House,Waterstones,Sheffield,Science Fiction,60+,180,18.28,3289.66,924.07,48051.69
+Penguin Random House,Waterstones,Sheffield,Fantasy,18-25,210,15.7,3297.92,715.08,37184.23
+Penguin Random House,Waterstones,Sheffield,Fantasy,26-40,469,18.78,8809.06,2830.23,147171.8
+Penguin Random House,Waterstones,Sheffield,Fantasy,41-60,276,12.47,3441.0,1335.2,69430.4
+Penguin Random House,Waterstones,Sheffield,Fantasy,60+,202,8.06,1628.27,378.02,19657.12
+Penguin Random House,Waterstones,Sheffield,Horror,18-25,387,13.83,5351.19,1550.16,80608.25
+Penguin Random House,Waterstones,Sheffield,Horror,26-40,494,10.69,5281.47,1808.56,94045.33
+Penguin Random House,Waterstones,Sheffield,Horror,41-60,338,13.93,4707.23,1109.8,57709.53
+Penguin Random House,Waterstones,Sheffield,Horror,60+,433,16.93,7330.71,2523.14,131203.4
+Penguin Random House,WHSmith,London,Science Fiction,18-25,177,14.82,2623.09,573.76,29835.57
+Penguin Random House,WHSmith,London,Science Fiction,26-40,420,15.64,6567.12,1642.39,85404.05
+Penguin Random House,WHSmith,London,Science Fiction,41-60,207,19.68,4072.96,1134.81,59009.9
+Penguin Random House,WHSmith,London,Science Fiction,60+,487,18.87,9191.24,2636.77,137112.19
+Penguin Random House,WHSmith,London,Fantasy,18-25,326,14.03,4574.32,1442.65,75017.87
+Penguin Random House,WHSmith,London,Fantasy,26-40,497,18.37,9129.9,2246.29,116807.21
+Penguin Random House,WHSmith,London,Fantasy,41-60,353,11.37,4013.35,822.19,42753.78
+Penguin Random House,WHSmith,London,Fantasy,60+,98,8.52,835.28,333.2,17326.44
+Penguin Random House,WHSmith,London,Horror,18-25,207,19.45,4025.56,1541.68,80167.35
+Penguin Random House,WHSmith,London,Horror,26-40,148,16.97,2511.95,981.2,51022.57
+Penguin Random House,WHSmith,London,Horror,41-60,398,13.14,5229.01,2056.73,106949.99
+Penguin Random House,WHSmith,London,Horror,60+,148,19.76,2925.07,629.09,32712.8
+Penguin Random House,WHSmith,Manchester,Science Fiction,18-25,302,12.62,3811.59,1411.16,73380.13
+Penguin Random House,WHSmith,Manchester,Science Fiction,26-40,305,13.82,4216.12,1157.48,60189.15
+Penguin Random House,WHSmith,Manchester,Science Fiction,41-60,272,18.13,4931.51,1903.58,98986.17
+Penguin Random House,WHSmith,Manchester,Science Fiction,60+,223,9.17,2044.04,660.23,34331.92
+Penguin Random House,WHSmith,Manchester,Fantasy,18-25,391,12.3,4810.77,1206.7,62748.33
+Penguin Random House,WHSmith,Manchester,Fantasy,26-40,435,11.87,5163.71,1909.2,99278.44
+Penguin Random House,WHSmith,Manchester,Fantasy,41-60,442,16.43,7261.98,1974.52,102674.95
+Penguin Random House,WHSmith,Manchester,Fantasy,60+,219,17.71,3879.0,1404.29,73022.89
+Penguin Random House,WHSmith,Manchester,Horror,18-25,458,15.34,7024.88,1519.61,79019.91
+Penguin Random House,WHSmith,Manchester,Horror,26-40,440,14.02,6168.01,2218.38,115355.71
+Penguin Random House,WHSmith,Manchester,Horror,41-60,370,8.85,3274.98,914.89,47574.13
+Penguin Random House,WHSmith,Manchester,Horror,60+,191,18.68,3567.89,954.76,49647.75
+Penguin Random House,WHSmith,Birmingham,Science Fiction,18-25,141,14.95,2107.44,606.3,31527.57
+Penguin Random House,WHSmith,Birmingham,Science Fiction,26-40,496,8.43,4181.93,1225.81,63741.87
+Penguin Random House,WHSmith,Birmingham,Science Fiction,41-60,112,19.78,2215.59,814.87,42373.04
+Penguin Random House,WHSmith,Birmingham,Science Fiction,60+,107,8.37,895.16,185.72,9657.39
+Penguin Random House,WHSmith,Birmingham,Fantasy,18-25,375,11.64,4364.69,1341.78,69772.52
+Penguin Random House,WHSmith,Birmingham,Fantasy,26-40,150,14.27,2140.04,757.57,39393.67
+Penguin Random House,WHSmith,Birmingham,Fantasy,41-60,157,15.47,2429.53,527.38,27423.55
+Penguin Random House,WHSmith,Birmingham,Fantasy,60+,414,10.33,4277.68,1207.46,62788.13
+Penguin Random House,WHSmith,Birmingham,Horror,18-25,404,15.65,6322.26,2182.56,113493.1
+Penguin Random House,WHSmith,Birmingham,Horror,26-40,318,19.63,6243.75,2141.1,111337.28
+Penguin Random House,WHSmith,Birmingham,Horror,41-60,196,17.54,3438.28,873.89,45442.53
+Penguin Random House,WHSmith,Birmingham,Horror,60+,141,16.93,2386.92,597.14,31051.32
+Penguin Random House,WHSmith,Leeds,Science Fiction,18-25,166,8.97,1489.1,425.38,22119.78
+Penguin Random House,WHSmith,Leeds,Science Fiction,26-40,445,12.91,5743.81,1347.84,70087.45
+Penguin Random House,WHSmith,Leeds,Science Fiction,41-60,50,13.31,665.41,164.99,8579.67
+Penguin Random House,WHSmith,Leeds,Science Fiction,60+,167,16.58,2768.05,919.1,47793.3
+Penguin Random House,WHSmith,Leeds,Fantasy,18-25,422,15.66,6608.2,2004.53,104235.41
+Penguin Random House,WHSmith,Leeds,Fantasy,26-40,241,14.65,3531.19,1138.26,59189.47
+Penguin Random House,WHSmith,Leeds,Fantasy,41-60,296,8.57,2537.49,794.76,41327.52
+Penguin Random House,WHSmith,Leeds,Fantasy,60+,484,17.09,8273.57,1678.53,87283.62
+Penguin Random House,WHSmith,Leeds,Horror,18-25,269,8.55,2300.5,478.84,24899.61
+Penguin Random House,WHSmith,Leeds,Horror,26-40,287,19.75,5669.43,1332.69,69299.96
+Penguin Random House,WHSmith,Leeds,Horror,41-60,449,9.17,4119.13,1228.83,63899.27
+Penguin Random House,WHSmith,Leeds,Horror,60+,88,12.16,1069.7,313.35,16294.28
+Penguin Random House,WHSmith,Liverpool,Science Fiction,18-25,406,12.78,5189.52,1677.1,87208.98
+Penguin Random House,WHSmith,Liverpool,Science Fiction,26-40,374,18.64,6971.42,1758.04,91418.3
+Penguin Random House,WHSmith,Liverpool,Science Fiction,41-60,443,15.51,6871.07,2065.63,107412.83
+Penguin Random House,WHSmith,Liverpool,Science Fiction,60+,306,14.47,4428.59,1491.52,77558.96
+Penguin Random House,WHSmith,Liverpool,Fantasy,18-25,65,8.85,575.04,188.89,9822.41
+Penguin Random House,WHSmith,Liverpool,Fantasy,26-40,433,15.64,6770.75,2438.76,126815.34
+Penguin Random House,WHSmith,Liverpool,Fantasy,41-60,445,12.66,5632.83,1851.27,96266.13
+Penguin Random House,WHSmith,Liverpool,Fantasy,60+,466,17.73,8264.25,3009.25,156480.76
+Penguin Random House,WHSmith,Liverpool,Horror,18-25,317,12.63,4004.73,1570.81,81682.09
+Penguin Random House,WHSmith,Liverpool,Horror,26-40,379,10.48,3972.0,1012.03,52625.81
+Penguin Random House,WHSmith,Liverpool,Horror,41-60,61,9.21,561.77,114.4,5948.86
+Penguin Random House,WHSmith,Liverpool,Horror,60+,291,16.2,4713.06,1009.72,52505.19
+Penguin Random House,WHSmith,Bristol,Science Fiction,18-25,313,12.62,3951.55,1329.0,69107.79
+Penguin Random House,WHSmith,Bristol,Science Fiction,26-40,467,11.13,5196.93,1554.96,80857.97
+Penguin Random House,WHSmith,Bristol,Science Fiction,41-60,363,16.36,5938.99,1934.85,100612.41
+Penguin Random House,WHSmith,Bristol,Science Fiction,60+,462,8.47,3913.25,1109.76,57707.27
+Penguin Random House,WHSmith,Bristol,Fantasy,18-25,298,14.58,4343.55,1236.58,64302.3
+Penguin Random House,WHSmith,Bristol,Fantasy,26-40,457,17.68,8080.68,3216.93,167280.24
+Penguin Random House,WHSmith,Bristol,Fantasy,41-60,85,12.46,1059.46,376.41,19573.17
+Penguin Random House,WHSmith,Bristol,Fantasy,60+,201,18.41,3699.49,1155.62,60092.27
+Penguin Random House,WHSmith,Bristol,Horror,18-25,317,13.15,4167.89,1459.49,75893.42
+Penguin Random House,WHSmith,Bristol,Horror,26-40,266,10.86,2888.45,795.9,41386.81
+Penguin Random House,WHSmith,Bristol,Horror,41-60,418,14.06,5878.35,2147.31,111660.11
+Penguin Random House,WHSmith,Bristol,Horror,60+,391,11.57,4524.5,995.38,51759.62
+Penguin Random House,WHSmith,Sheffield,Science Fiction,18-25,149,8.13,1211.38,461.63,24004.63
+Penguin Random House,WHSmith,Sheffield,Science Fiction,26-40,125,12.26,1532.36,599.7,31184.6
+Penguin Random House,WHSmith,Sheffield,Science Fiction,41-60,272,19.41,5278.78,1661.17,86380.69
+Penguin Random House,WHSmith,Sheffield,Science Fiction,60+,416,9.0,3743.76,817.41,42505.57
+Penguin Random House,WHSmith,Sheffield,Fantasy,18-25,445,11.94,5315.07,1777.91,92451.32
+Penguin Random House,WHSmith,Sheffield,Fantasy,26-40,102,17.5,1784.89,638.86,33220.48
+Penguin Random House,WHSmith,Sheffield,Fantasy,41-60,158,19.17,3029.04,1196.02,62192.83
+Penguin Random House,WHSmith,Sheffield,Fantasy,60+,447,14.59,6523.67,1880.81,97802.36
+Penguin Random House,WHSmith,Sheffield,Horror,18-25,264,14.55,3841.46,1310.58,68150.01
+Penguin Random House,WHSmith,Sheffield,Horror,26-40,288,9.72,2798.18,985.8,51261.83
+Penguin Random House,WHSmith,Sheffield,Horror,41-60,450,9.21,4146.06,898.95,46745.66
+Penguin Random House,WHSmith,Sheffield,Horror,60+,190,10.67,2027.47,566.34,29449.42
+Penguin Random House,Independent Bookstore,London,Science Fiction,18-25,332,16.47,5469.67,1182.92,61512.05
+Penguin Random House,Independent Bookstore,London,Science Fiction,26-40,214,10.8,2310.93,730.86,38004.57
+Penguin Random House,Independent Bookstore,London,Science Fiction,41-60,414,12.45,5153.35,1868.4,97156.71
+Penguin Random House,Independent Bookstore,London,Science Fiction,60+,376,19.83,7456.84,2614.93,135976.41
+Penguin Random House,Independent Bookstore,London,Fantasy,18-25,119,16.5,1963.28,581.79,30252.88
+Penguin Random House,Independent Bookstore,London,Fantasy,26-40,413,14.7,6071.45,1729.42,89929.79
+Penguin Random House,Independent Bookstore,London,Fantasy,41-60,395,11.96,4725.4,1355.67,70494.89
+Penguin Random House,Independent Bookstore,London,Fantasy,60+,222,8.14,1806.25,530.55,27588.73
+Penguin Random House,Independent Bookstore,London,Horror,18-25,107,16.89,1807.41,638.81,33218.08
+Penguin Random House,Independent Bookstore,London,Horror,26-40,432,15.79,6821.51,2382.13,123870.82
+Penguin Random House,Independent Bookstore,London,Horror,41-60,397,19.55,7759.79,2133.74,110954.55
+Penguin Random House,Independent Bookstore,London,Horror,60+,418,8.99,3759.78,1149.27,59761.93
+Penguin Random House,Independent Bookstore,Manchester,Science Fiction,18-25,166,19.56,3246.74,657.24,34176.5
+Penguin Random House,Independent Bookstore,Manchester,Science Fiction,26-40,209,14.67,3066.46,811.19,42182.04
+Penguin Random House,Independent Bookstore,Manchester,Science Fiction,41-60,129,14.33,1848.88,736.95,38321.46
+Penguin Random House,Independent Bookstore,Manchester,Science Fiction,60+,278,11.04,3067.98,1040.3,54095.38
+Penguin Random House,Independent Bookstore,Manchester,Fantasy,18-25,490,14.28,6995.82,2279.79,118549.31
+Penguin Random House,Independent Bookstore,Manchester,Fantasy,26-40,63,11.53,726.64,290.05,15082.56
+Penguin Random House,Independent Bookstore,Manchester,Fantasy,41-60,103,15.01,1546.21,587.92,30571.78
+Penguin Random House,Independent Bookstore,Manchester,Fantasy,60+,490,18.98,9301.7,3643.85,189480.24
+Penguin Random House,Independent Bookstore,Manchester,Horror,18-25,321,18.68,5997.3,1746.0,90792.05
+Penguin Random House,Independent Bookstore,Manchester,Horror,26-40,205,12.03,2465.72,576.82,29994.72
+Penguin Random House,Independent Bookstore,Manchester,Horror,41-60,213,13.56,2889.21,782.02,40665.28
+Penguin Random House,Independent Bookstore,Manchester,Horror,60+,227,11.19,2540.41,691.17,35940.75
+Penguin Random House,Independent Bookstore,Birmingham,Science Fiction,18-25,277,19.83,5494.16,1866.0,97031.79
+Penguin Random House,Independent Bookstore,Birmingham,Science Fiction,26-40,194,11.36,2203.29,621.86,32336.69
+Penguin Random House,Independent Bookstore,Birmingham,Science Fiction,41-60,269,11.25,3026.65,685.95,35669.46
+Penguin Random House,Independent Bookstore,Birmingham,Science Fiction,60+,84,17.87,1501.12,585.38,30439.54
+Penguin Random House,Independent Bookstore,Birmingham,Fantasy,18-25,305,14.97,4567.06,1753.0,91155.85
+Penguin Random House,Independent Bookstore,Birmingham,Fantasy,26-40,59,19.19,1132.37,422.62,21976.01
+Penguin Random House,Independent Bookstore,Birmingham,Fantasy,41-60,414,9.98,4130.9,1165.95,60629.39
+Penguin Random House,Independent Bookstore,Birmingham,Fantasy,60+,423,17.73,7498.37,2980.27,154973.82
+Penguin Random House,Independent Bookstore,Birmingham,Horror,18-25,226,12.52,2829.72,990.16,51488.42
+Penguin Random House,Independent Bookstore,Birmingham,Horror,26-40,266,19.64,5223.97,1924.63,100080.95
+Penguin Random House,Independent Bookstore,Birmingham,Horror,41-60,466,13.62,6348.93,1796.52,93418.97
+Penguin Random House,Independent Bookstore,Birmingham,Horror,60+,434,8.16,3543.2,762.04,39626.25
+Penguin Random House,Independent Bookstore,Leeds,Science Fiction,18-25,246,20.0,4919.17,1964.36,102146.61
+Penguin Random House,Independent Bookstore,Leeds,Science Fiction,26-40,486,15.02,7300.59,2520.34,131057.72
+Penguin Random House,Independent Bookstore,Leeds,Science Fiction,41-60,251,18.2,4567.14,1139.36,59246.83
+Penguin Random House,Independent Bookstore,Leeds,Science Fiction,60+,127,10.46,1328.49,332.51,17290.29
+Penguin Random House,Independent Bookstore,Leeds,Fantasy,18-25,222,15.27,3390.85,833.23,43327.88
+Penguin Random House,Independent Bookstore,Leeds,Fantasy,26-40,418,17.08,7141.11,1495.2,77750.4
+Penguin Random House,Independent Bookstore,Leeds,Fantasy,41-60,144,9.36,1348.23,450.73,23438.07
+Penguin Random House,Independent Bookstore,Leeds,Fantasy,60+,211,13.71,2893.77,1059.91,55115.42
+Penguin Random House,Independent Bookstore,Leeds,Horror,18-25,355,18.23,6470.29,2008.26,104429.44
+Penguin Random House,Independent Bookstore,Leeds,Horror,26-40,438,9.06,3968.67,1422.23,73955.86
+Penguin Random House,Independent Bookstore,Leeds,Horror,41-60,450,9.61,4323.68,889.63,46260.55
+Penguin Random House,Independent Bookstore,Leeds,Horror,60+,256,17.42,4458.5,1461.82,76014.58
+Penguin Random House,Independent Bookstore,Liverpool,Science Fiction,18-25,124,10.56,1308.89,297.48,15468.81
+Penguin Random House,Independent Bookstore,Liverpool,Science Fiction,26-40,301,19.77,5949.43,1913.44,99498.97
+Penguin Random House,Independent Bookstore,Liverpool,Science Fiction,41-60,387,12.71,4917.58,1413.78,73516.56
+Penguin Random House,Independent Bookstore,Liverpool,Science Fiction,60+,496,16.72,8291.52,2566.13,133439.01
+Penguin Random House,Independent Bookstore,Liverpool,Fantasy,18-25,384,12.76,4899.27,1589.41,82649.21
+Penguin Random House,Independent Bookstore,Liverpool,Fantasy,26-40,100,16.37,1637.17,588.23,30587.75
+Penguin Random House,Independent Bookstore,Liverpool,Fantasy,41-60,187,19.12,3575.26,1066.94,55480.96
+Penguin Random House,Independent Bookstore,Liverpool,Fantasy,60+,389,13.51,5255.25,2081.11,108217.8
+Penguin Random House,Independent Bookstore,Liverpool,Horror,18-25,102,12.17,1241.23,300.16,15608.47
+Penguin Random House,Independent Bookstore,Liverpool,Horror,26-40,92,10.88,1001.12,215.41,11201.52
+Penguin Random House,Independent Bookstore,Liverpool,Horror,41-60,298,13.52,4029.39,1277.13,66410.6
+Penguin Random House,Independent Bookstore,Liverpool,Horror,60+,423,16.37,6925.36,1634.48,84992.87
+Penguin Random House,Independent Bookstore,Bristol,Science Fiction,18-25,437,12.15,5308.68,2013.89,104722.19
+Penguin Random House,Independent Bookstore,Bristol,Science Fiction,26-40,244,14.18,3460.61,1365.63,71012.94
+Penguin Random House,Independent Bookstore,Bristol,Science Fiction,41-60,110,10.31,1133.82,236.03,12273.66
+Penguin Random House,Independent Bookstore,Bristol,Science Fiction,60+,54,12.14,655.61,176.7,9188.58
+Penguin Random House,Independent Bookstore,Bristol,Fantasy,18-25,71,9.06,643.57,144.24,7500.61
+Penguin Random House,Independent Bookstore,Bristol,Fantasy,26-40,282,12.27,3460.68,1311.05,68174.81
+Penguin Random House,Independent Bookstore,Bristol,Fantasy,41-60,482,14.04,6767.77,2288.04,118978.04
+Penguin Random House,Independent Bookstore,Bristol,Fantasy,60+,122,9.11,1111.11,329.14,17115.49
+Penguin Random House,Independent Bookstore,Bristol,Horror,18-25,263,8.98,2362.03,885.09,46024.7
+Penguin Random House,Independent Bookstore,Bristol,Horror,26-40,368,12.53,4610.09,924.41,48069.4
+Penguin Random House,Independent Bookstore,Bristol,Horror,41-60,341,17.67,6026.98,2107.34,109581.87
+Penguin Random House,Independent Bookstore,Bristol,Horror,60+,302,19.84,5990.2,1840.9,95726.57
+Penguin Random House,Independent Bookstore,Sheffield,Science Fiction,18-25,105,13.81,1450.5,469.46,24411.68
+Penguin Random House,Independent Bookstore,Sheffield,Science Fiction,26-40,127,13.55,1720.9,601.45,31275.17
+Penguin Random House,Independent Bookstore,Sheffield,Science Fiction,41-60,63,9.77,615.69,139.53,7255.56
+Penguin Random House,Independent Bookstore,Sheffield,Science Fiction,60+,52,18.74,974.61,294.66,15322.26
+Penguin Random House,Independent Bookstore,Sheffield,Fantasy,18-25,288,8.37,2409.31,899.74,46786.51
+Penguin Random House,Independent Bookstore,Sheffield,Fantasy,26-40,343,14.39,4936.25,1226.63,63784.74
+Penguin Random House,Independent Bookstore,Sheffield,Fantasy,41-60,168,12.53,2104.6,429.37,22327.21
+Penguin Random House,Independent Bookstore,Sheffield,Fantasy,60+,490,18.09,8863.37,1930.81,100401.87
+Penguin Random House,Independent Bookstore,Sheffield,Horror,18-25,175,9.44,1651.5,624.44,32470.95
+Penguin Random House,Independent Bookstore,Sheffield,Horror,26-40,261,13.69,3572.47,968.21,50347.18
+Penguin Random House,Independent Bookstore,Sheffield,Horror,41-60,282,13.98,3942.73,857.09,44568.49
+Penguin Random House,Independent Bookstore,Sheffield,Horror,60+,160,16.84,2694.7,839.53,43655.53
+HarperCollins,Waterstones,London,Science Fiction,18-25,473,13.18,6234.1,1405.89,73106.26
+HarperCollins,Waterstones,London,Science Fiction,26-40,474,12.05,5711.4,2169.93,112836.27
+HarperCollins,Waterstones,London,Science Fiction,41-60,369,14.85,5479.41,1486.12,77278.29
+HarperCollins,Waterstones,London,Science Fiction,60+,414,11.96,4953.17,1915.58,99610.23
+HarperCollins,Waterstones,London,Fantasy,18-25,486,9.22,4481.6,1033.33,53733.14
+HarperCollins,Waterstones,London,Fantasy,26-40,161,9.93,1598.44,379.33,19725.18
+HarperCollins,Waterstones,London,Fantasy,41-60,367,17.67,6485.03,1369.19,71197.81
+HarperCollins,Waterstones,London,Fantasy,60+,186,8.96,1667.08,508.3,26431.44
+HarperCollins,Waterstones,London,Horror,18-25,89,16.36,1456.35,581.74,30250.61
+HarperCollins,Waterstones,London,Horror,26-40,55,12.77,702.58,276.74,14390.69
+HarperCollins,Waterstones,London,Horror,41-60,53,8.06,427.37,168.82,8778.49
+HarperCollins,Waterstones,London,Horror,60+,143,10.05,1437.24,479.65,24941.76
+HarperCollins,Waterstones,Manchester,Science Fiction,18-25,490,16.62,8144.53,2500.43,130022.37
+HarperCollins,Waterstones,Manchester,Science Fiction,26-40,75,11.36,851.98,301.51,15678.78
+HarperCollins,Waterstones,Manchester,Science Fiction,41-60,375,19.62,7355.97,2517.14,130891.5
+HarperCollins,Waterstones,Manchester,Science Fiction,60+,261,14.09,3677.84,913.88,47521.54
+HarperCollins,Waterstones,Manchester,Fantasy,18-25,96,16.49,1582.73,559.58,29098.33
+HarperCollins,Waterstones,Manchester,Fantasy,26-40,87,14.97,1302.81,300.78,15640.75
+HarperCollins,Waterstones,Manchester,Fantasy,41-60,405,11.85,4798.32,1529.59,79538.81
+HarperCollins,Waterstones,Manchester,Fantasy,60+,439,12.04,5285.23,1199.13,62354.7
+HarperCollins,Waterstones,Manchester,Horror,18-25,456,14.59,6651.7,1598.71,83132.94
+HarperCollins,Waterstones,Manchester,Horror,26-40,217,17.72,3844.91,964.8,50169.44
+HarperCollins,Waterstones,Manchester,Horror,41-60,150,8.03,1204.88,269.1,13993.04
+HarperCollins,Waterstones,Manchester,Horror,60+,448,13.66,6119.19,1727.87,89849.01
+HarperCollins,Waterstones,Birmingham,Science Fiction,18-25,143,9.28,1327.1,491.22,25543.37
+HarperCollins,Waterstones,Birmingham,Science Fiction,26-40,493,19.58,9653.1,2170.59,112870.71
+HarperCollins,Waterstones,Birmingham,Science Fiction,41-60,425,19.89,8453.74,2037.35,105942.43
+HarperCollins,Waterstones,Birmingham,Science Fiction,60+,84,19.12,1605.86,552.93,28752.31
+HarperCollins,Waterstones,Birmingham,Fantasy,18-25,109,18.1,1973.11,449.78,23388.55
+HarperCollins,Waterstones,Birmingham,Fantasy,26-40,410,17.01,6972.47,2509.44,130491.06
+HarperCollins,Waterstones,Birmingham,Fantasy,41-60,340,9.97,3390.2,1230.36,63978.5
+HarperCollins,Waterstones,Birmingham,Fantasy,60+,428,15.61,6678.98,2548.52,132523.12
+HarperCollins,Waterstones,Birmingham,Horror,18-25,138,18.53,2556.64,712.0,37023.86
+HarperCollins,Waterstones,Birmingham,Horror,26-40,345,13.42,4631.07,1587.33,82541.07
+HarperCollins,Waterstones,Birmingham,Horror,41-60,337,13.55,4567.08,1188.7,61812.33
+HarperCollins,Waterstones,Birmingham,Horror,60+,72,13.26,955.08,301.32,15668.83
+HarperCollins,Waterstones,Leeds,Science Fiction,18-25,194,18.79,3646.21,1009.19,52477.96
+HarperCollins,Waterstones,Leeds,Science Fiction,26-40,358,18.88,6758.2,2195.39,114160.09
+HarperCollins,Waterstones,Leeds,Science Fiction,41-60,484,13.18,6378.32,1700.22,88411.64
+HarperCollins,Waterstones,Leeds,Science Fiction,60+,228,12.02,2740.3,624.39,32468.27
+HarperCollins,Waterstones,Leeds,Fantasy,18-25,64,18.54,1186.79,354.95,18457.4
+HarperCollins,Waterstones,Leeds,Fantasy,26-40,280,14.88,4165.79,1664.39,86548.4
+HarperCollins,Waterstones,Leeds,Fantasy,41-60,490,11.74,5752.93,1436.49,74697.64
+HarperCollins,Waterstones,Leeds,Fantasy,60+,488,9.72,4742.16,1142.43,59406.26
+HarperCollins,Waterstones,Leeds,Horror,18-25,371,17.15,6362.47,2388.17,124184.92
+HarperCollins,Waterstones,Leeds,Horror,26-40,402,9.23,3712.47,1140.83,59323.02
+HarperCollins,Waterstones,Leeds,Horror,41-60,352,18.16,6391.41,1441.25,74944.97
+HarperCollins,Waterstones,Leeds,Horror,60+,233,14.03,3268.4,1006.58,52341.93
+HarperCollins,Waterstones,Liverpool,Science Fiction,18-25,206,10.75,2214.71,762.86,39668.61
+HarperCollins,Waterstones,Liverpool,Science Fiction,26-40,179,8.15,1458.21,466.17,24241.03
+HarperCollins,Waterstones,Liverpool,Science Fiction,41-60,469,14.51,6806.45,1704.06,88611.24
+HarperCollins,Waterstones,Liverpool,Science Fiction,60+,118,17.92,2114.75,828.59,43086.66
+HarperCollins,Waterstones,Liverpool,Fantasy,18-25,409,15.0,6135.29,1718.93,89384.1
+HarperCollins,Waterstones,Liverpool,Fantasy,26-40,352,11.46,4032.21,1302.37,67722.99
+HarperCollins,Waterstones,Liverpool,Fantasy,41-60,267,15.03,4014.28,1209.01,62868.62
+HarperCollins,Waterstones,Liverpool,Fantasy,60+,160,16.71,2674.1,851.95,44301.38
+HarperCollins,Waterstones,Liverpool,Horror,18-25,405,19.03,7705.13,2758.57,143445.44
+HarperCollins,Waterstones,Liverpool,Horror,26-40,342,16.49,5638.51,1299.72,67585.44
+HarperCollins,Waterstones,Liverpool,Horror,41-60,141,12.49,1761.54,376.59,19582.71
+HarperCollins,Waterstones,Liverpool,Horror,60+,100,16.84,1683.73,651.39,33872.36
+HarperCollins,Waterstones,Bristol,Science Fiction,18-25,263,18.93,4978.13,1117.9,58130.73
+HarperCollins,Waterstones,Bristol,Science Fiction,26-40,150,19.82,2972.71,1093.3,56851.79
+HarperCollins,Waterstones,Bristol,Science Fiction,41-60,231,18.05,4169.52,1110.88,57765.94
+HarperCollins,Waterstones,Bristol,Science Fiction,60+,487,14.23,6928.09,2204.9,114654.79
+HarperCollins,Waterstones,Bristol,Fantasy,18-25,198,12.55,2485.23,866.97,45082.57
+HarperCollins,Waterstones,Bristol,Fantasy,26-40,251,17.63,4426.19,889.34,46245.65
+HarperCollins,Waterstones,Bristol,Fantasy,41-60,474,9.37,4441.95,1256.63,65344.89
+HarperCollins,Waterstones,Bristol,Fantasy,60+,139,19.04,2646.32,712.57,37053.76
+HarperCollins,Waterstones,Bristol,Horror,18-25,259,13.77,3566.44,1368.41,71157.38
+HarperCollins,Waterstones,Bristol,Horror,26-40,177,10.7,1893.06,549.91,28595.38
+HarperCollins,Waterstones,Bristol,Horror,41-60,228,10.98,2503.15,789.81,41070.07
+HarperCollins,Waterstones,Bristol,Horror,60+,229,13.03,2983.21,1142.48,59408.77
+HarperCollins,Waterstones,Sheffield,Science Fiction,18-25,226,17.37,3924.7,1002.83,52147.18
+HarperCollins,Waterstones,Sheffield,Science Fiction,26-40,203,8.16,1655.9,550.93,28648.34
+HarperCollins,Waterstones,Sheffield,Science Fiction,41-60,386,19.53,7539.68,1732.11,90069.69
+HarperCollins,Waterstones,Sheffield,Science Fiction,60+,167,18.33,3060.71,939.68,48863.34
+HarperCollins,Waterstones,Sheffield,Fantasy,18-25,409,14.03,5736.77,1830.47,95184.56
+HarperCollins,Waterstones,Sheffield,Fantasy,26-40,190,12.77,2425.89,692.25,35996.75
+HarperCollins,Waterstones,Sheffield,Fantasy,41-60,489,18.78,9181.78,2213.07,115079.43
+HarperCollins,Waterstones,Sheffield,Fantasy,60+,334,15.5,5176.9,1426.47,74176.49
+HarperCollins,Waterstones,Sheffield,Horror,18-25,193,14.78,2852.17,607.92,31611.68
+HarperCollins,Waterstones,Sheffield,Horror,26-40,127,16.57,2104.23,642.9,33430.97
+HarperCollins,Waterstones,Sheffield,Horror,41-60,162,12.81,2075.08,647.28,33658.39
+HarperCollins,Waterstones,Sheffield,Horror,60+,368,9.24,3398.77,907.04,47165.95
+HarperCollins,WHSmith,London,Science Fiction,18-25,104,19.35,2012.75,552.83,28746.96
+HarperCollins,WHSmith,London,Science Fiction,26-40,415,14.32,5942.36,2140.14,111287.33
+HarperCollins,WHSmith,London,Science Fiction,41-60,104,9.87,1026.88,352.42,18325.79
+HarperCollins,WHSmith,London,Science Fiction,60+,398,12.9,5132.53,1592.85,82828.4
+HarperCollins,WHSmith,London,Fantasy,18-25,372,10.77,4007.52,1340.03,69681.46
+HarperCollins,WHSmith,London,Fantasy,26-40,377,9.25,3486.99,1255.26,65273.36
+HarperCollins,WHSmith,London,Fantasy,41-60,116,18.65,2163.34,673.55,35024.35
+HarperCollins,WHSmith,London,Fantasy,60+,313,9.19,2877.5,715.45,37203.2
+HarperCollins,WHSmith,London,Horror,18-25,127,15.24,1935.27,699.35,36366.18
+HarperCollins,WHSmith,London,Horror,26-40,449,12.77,5732.02,1912.3,99439.66
+HarperCollins,WHSmith,London,Horror,41-60,447,11.52,5148.44,1952.64,101537.07
+HarperCollins,WHSmith,London,Horror,60+,56,15.6,873.54,303.28,15770.33
+HarperCollins,WHSmith,Manchester,Science Fiction,18-25,134,8.32,1114.66,263.38,13695.79
+HarperCollins,WHSmith,Manchester,Science Fiction,26-40,85,15.72,1335.78,455.22,23671.48
+HarperCollins,WHSmith,Manchester,Science Fiction,41-60,434,17.81,7729.25,2074.25,107860.86
+HarperCollins,WHSmith,Manchester,Science Fiction,60+,283,17.9,5066.06,1381.07,71815.6
+HarperCollins,WHSmith,Manchester,Fantasy,18-25,168,11.22,1884.42,612.11,31829.96
+HarperCollins,WHSmith,Manchester,Fantasy,26-40,471,17.29,8141.71,2219.04,115389.91
+HarperCollins,WHSmith,Manchester,Fantasy,41-60,102,11.53,1176.43,458.44,23839.0
+HarperCollins,WHSmith,Manchester,Fantasy,60+,391,17.36,6786.63,1512.38,78643.95
+HarperCollins,WHSmith,Manchester,Horror,18-25,207,13.85,2866.78,1086.25,56485.13
+HarperCollins,WHSmith,Manchester,Horror,26-40,177,10.19,1802.8,535.35,27838.22
+HarperCollins,WHSmith,Manchester,Horror,41-60,258,11.22,2895.83,892.86,46428.75
+HarperCollins,WHSmith,Manchester,Horror,60+,286,12.83,3669.55,893.92,46483.83
+HarperCollins,WHSmith,Birmingham,Science Fiction,18-25,327,18.02,5892.27,2338.53,121603.31
+HarperCollins,WHSmith,Birmingham,Science Fiction,26-40,491,18.81,9234.17,3123.41,162417.15
+HarperCollins,WHSmith,Birmingham,Science Fiction,41-60,342,8.22,2811.48,1076.4,55972.84
+HarperCollins,WHSmith,Birmingham,Science Fiction,60+,390,17.78,6934.45,2077.69,108039.8
+HarperCollins,WHSmith,Birmingham,Fantasy,18-25,83,14.65,1215.96,401.61,20883.86
+HarperCollins,WHSmith,Birmingham,Fantasy,26-40,427,16.64,7106.32,1572.74,81782.48
+HarperCollins,WHSmith,Birmingham,Fantasy,41-60,391,9.64,3770.27,1432.72,74501.21
+HarperCollins,WHSmith,Birmingham,Fantasy,60+,183,16.79,3071.88,768.42,39957.75
+HarperCollins,WHSmith,Birmingham,Horror,18-25,286,15.98,4570.41,1074.38,55868.01
+HarperCollins,WHSmith,Birmingham,Horror,26-40,222,18.06,4008.72,1125.95,58549.59
+HarperCollins,WHSmith,Birmingham,Horror,41-60,239,14.23,3400.26,711.99,37023.5
+HarperCollins,WHSmith,Birmingham,Horror,60+,359,16.86,6051.45,1310.5,68146.01
+HarperCollins,WHSmith,Leeds,Science Fiction,18-25,341,17.25,5882.87,1256.88,65357.54
+HarperCollins,WHSmith,Leeds,Science Fiction,26-40,316,11.46,3622.73,982.25,51076.81
+HarperCollins,WHSmith,Leeds,Science Fiction,41-60,162,16.66,2698.66,869.19,45197.72
+HarperCollins,WHSmith,Leeds,Science Fiction,60+,359,13.71,4922.83,1637.99,85175.61
+HarperCollins,WHSmith,Leeds,Fantasy,18-25,295,9.62,2837.9,842.15,43791.85
+HarperCollins,WHSmith,Leeds,Fantasy,26-40,299,8.37,2503.89,632.11,32869.87
+HarperCollins,WHSmith,Leeds,Fantasy,41-60,276,18.1,4995.15,1844.62,95920.0
+HarperCollins,WHSmith,Leeds,Fantasy,60+,414,9.86,4080.41,1324.77,68888.19
+HarperCollins,WHSmith,Leeds,Horror,18-25,499,9.28,4630.31,995.64,51773.5
+HarperCollins,WHSmith,Leeds,Horror,26-40,66,12.95,854.93,291.52,15159.0
+HarperCollins,WHSmith,Leeds,Horror,41-60,153,13.22,2022.34,504.13,26214.79
+HarperCollins,WHSmith,Leeds,Horror,60+,180,8.93,1607.97,322.35,16762.04
+HarperCollins,WHSmith,Liverpool,Science Fiction,18-25,484,11.27,5452.62,1734.18,90177.59
+HarperCollins,WHSmith,Liverpool,Science Fiction,26-40,324,11.78,3815.15,1379.12,71714.45
+HarperCollins,WHSmith,Liverpool,Science Fiction,41-60,354,9.64,3413.21,1331.31,69228.23
+HarperCollins,WHSmith,Liverpool,Science Fiction,60+,360,14.26,5132.02,1115.4,58000.71
+HarperCollins,WHSmith,Liverpool,Fantasy,18-25,129,18.48,2383.32,825.69,42935.84
+HarperCollins,WHSmith,Liverpool,Fantasy,26-40,198,17.11,3387.47,1168.07,60739.61
+HarperCollins,WHSmith,Liverpool,Fantasy,41-60,247,19.77,4882.43,1858.61,96647.61
+HarperCollins,WHSmith,Liverpool,Fantasy,60+,317,10.65,3377.48,1342.66,69818.43
+HarperCollins,WHSmith,Liverpool,Horror,18-25,414,16.04,6640.15,1386.68,72107.52
+HarperCollins,WHSmith,Liverpool,Horror,26-40,65,19.1,1241.69,293.18,15245.49
+HarperCollins,WHSmith,Liverpool,Horror,41-60,135,18.99,2563.09,530.02,27561.02
+HarperCollins,WHSmith,Liverpool,Horror,60+,166,16.77,2784.2,664.09,34532.51
+HarperCollins,WHSmith,Bristol,Science Fiction,18-25,377,19.65,7409.07,2881.04,149814.1
+HarperCollins,WHSmith,Bristol,Science Fiction,26-40,131,16.94,2219.24,468.21,24346.81
+HarperCollins,WHSmith,Bristol,Science Fiction,41-60,451,14.27,6435.42,2116.67,110066.75
+HarperCollins,WHSmith,Bristol,Science Fiction,60+,63,15.16,954.78,234.88,12213.63
+HarperCollins,WHSmith,Bristol,Fantasy,18-25,237,13.77,3264.14,1230.58,63990.14
+HarperCollins,WHSmith,Bristol,Fantasy,26-40,220,12.08,2657.27,916.63,47664.98
+HarperCollins,WHSmith,Bristol,Fantasy,41-60,413,14.87,6140.95,2215.63,115212.61
+HarperCollins,WHSmith,Bristol,Fantasy,60+,53,17.49,926.9,244.47,12712.46
+HarperCollins,WHSmith,Bristol,Horror,18-25,259,14.24,3688.68,1052.62,54735.98
+HarperCollins,WHSmith,Bristol,Horror,26-40,157,10.8,1694.9,347.25,18057.03
+HarperCollins,WHSmith,Bristol,Horror,41-60,219,19.88,4354.62,871.13,45298.77
+HarperCollins,WHSmith,Bristol,Horror,60+,318,14.35,4562.42,1769.37,92007.23
+HarperCollins,WHSmith,Sheffield,Science Fiction,18-25,276,8.84,2439.94,492.62,25616.06
+HarperCollins,WHSmith,Sheffield,Science Fiction,26-40,78,17.21,1342.09,376.3,19567.76
+HarperCollins,WHSmith,Sheffield,Science Fiction,41-60,294,13.76,4044.67,1278.73,66493.84
+HarperCollins,WHSmith,Sheffield,Science Fiction,60+,285,19.81,5645.57,1996.58,103822.19
+HarperCollins,WHSmith,Sheffield,Fantasy,18-25,458,12.04,5512.69,1678.64,87289.07
+HarperCollins,WHSmith,Sheffield,Fantasy,26-40,114,10.87,1238.65,275.1,14305.05
+HarperCollins,WHSmith,Sheffield,Fantasy,41-60,191,11.56,2208.73,818.48,42560.8
+HarperCollins,WHSmith,Sheffield,Fantasy,60+,195,10.8,2106.64,439.06,22831.3
+HarperCollins,WHSmith,Sheffield,Horror,18-25,242,18.92,4579.62,957.23,49776.16
+HarperCollins,WHSmith,Sheffield,Horror,26-40,448,12.61,5650.14,1898.05,98698.52
+HarperCollins,WHSmith,Sheffield,Horror,41-60,189,19.48,3681.15,1323.73,68834.17
+HarperCollins,WHSmith,Sheffield,Horror,60+,476,15.06,7169.82,2842.59,147814.75
+HarperCollins,Independent Bookstore,London,Science Fiction,18-25,368,19.34,7115.94,2088.39,108596.14
+HarperCollins,Independent Bookstore,London,Science Fiction,26-40,382,19.87,7590.42,2646.56,137620.98
+HarperCollins,Independent Bookstore,London,Science Fiction,41-60,309,10.78,3331.04,1294.26,67301.67
+HarperCollins,Independent Bookstore,London,Science Fiction,60+,112,10.77,1205.88,441.51,22958.46
+HarperCollins,Independent Bookstore,London,Fantasy,18-25,415,10.77,4468.74,1051.52,54678.96
+HarperCollins,Independent Bookstore,London,Fantasy,26-40,267,8.44,2253.69,882.22,45875.22
+HarperCollins,Independent Bookstore,London,Fantasy,41-60,425,12.2,5185.64,1097.12,57050.14
+HarperCollins,Independent Bookstore,London,Fantasy,60+,96,10.6,1017.21,308.88,16061.58
+HarperCollins,Independent Bookstore,London,Horror,18-25,69,19.94,1375.78,323.01,16796.27
+HarperCollins,Independent Bookstore,London,Horror,26-40,468,17.1,8002.27,2714.4,141148.91
+HarperCollins,Independent Bookstore,London,Horror,41-60,265,18.77,4973.85,1455.73,75697.77
+HarperCollins,Independent Bookstore,London,Horror,60+,318,10.69,3398.09,1044.55,54316.85
+HarperCollins,Independent Bookstore,Manchester,Science Fiction,18-25,378,18.74,7083.36,2635.19,137029.93
+HarperCollins,Independent Bookstore,Manchester,Science Fiction,26-40,316,18.53,5855.33,1482.1,77069.28
+HarperCollins,Independent Bookstore,Manchester,Science Fiction,41-60,78,18.66,1455.87,569.43,29610.58
+HarperCollins,Independent Bookstore,Manchester,Science Fiction,60+,381,8.43,3209.95,853.24,44368.37
+HarperCollins,Independent Bookstore,Manchester,Fantasy,18-25,74,14.61,1081.16,235.04,12222.16
+HarperCollins,Independent Bookstore,Manchester,Fantasy,26-40,173,12.47,2157.7,543.63,28268.99
+HarperCollins,Independent Bookstore,Manchester,Fantasy,41-60,438,8.59,3760.41,1152.64,59937.37
+HarperCollins,Independent Bookstore,Manchester,Fantasy,60+,86,10.64,915.23,308.11,16021.9
+HarperCollins,Independent Bookstore,Manchester,Horror,18-25,130,8.74,1135.97,427.78,22244.75
+HarperCollins,Independent Bookstore,Manchester,Horror,26-40,367,15.11,5544.96,2023.56,105225.02
+HarperCollins,Independent Bookstore,Manchester,Horror,41-60,105,15.95,1674.26,516.94,26880.77
+HarperCollins,Independent Bookstore,Manchester,Horror,60+,286,16.81,4806.78,1462.47,76048.56
+HarperCollins,Independent Bookstore,Birmingham,Science Fiction,18-25,385,15.9,6122.05,2265.87,117825.23
+HarperCollins,Independent Bookstore,Birmingham,Science Fiction,26-40,108,9.92,1071.88,285.98,14870.91
+HarperCollins,Independent Bookstore,Birmingham,Science Fiction,41-60,94,16.37,1538.75,517.06,26887.25
+HarperCollins,Independent Bookstore,Birmingham,Science Fiction,60+,240,16.39,3933.09,935.46,48644.12
+HarperCollins,Independent Bookstore,Birmingham,Fantasy,18-25,182,18.57,3379.82,1265.3,65795.57
+HarperCollins,Independent Bookstore,Birmingham,Fantasy,26-40,80,17.91,1432.78,323.49,16821.24
+HarperCollins,Independent Bookstore,Birmingham,Fantasy,41-60,412,10.74,4426.32,1689.71,87864.69
+HarperCollins,Independent Bookstore,Birmingham,Fantasy,60+,131,17.82,2333.84,855.18,44469.52
+HarperCollins,Independent Bookstore,Birmingham,Horror,18-25,61,8.08,492.67,126.82,6594.54
+HarperCollins,Independent Bookstore,Birmingham,Horror,26-40,95,11.92,1132.13,353.19,18365.91
+HarperCollins,Independent Bookstore,Birmingham,Horror,41-60,409,11.12,4547.12,1486.0,77272.14
+HarperCollins,Independent Bookstore,Birmingham,Horror,60+,393,17.82,7004.89,1580.93,82208.48
+HarperCollins,Independent Bookstore,Leeds,Science Fiction,18-25,463,8.22,3806.38,1090.33,56697.25
+HarperCollins,Independent Bookstore,Leeds,Science Fiction,26-40,368,12.71,4675.74,1103.0,57356.23
+HarperCollins,Independent Bookstore,Leeds,Science Fiction,41-60,86,9.23,793.79,307.55,15992.63
+HarperCollins,Independent Bookstore,Leeds,Science Fiction,60+,401,17.25,6917.35,2694.03,140089.47
+HarperCollins,Independent Bookstore,Leeds,Fantasy,18-25,241,16.5,3976.03,848.76,44135.75
+HarperCollins,Independent Bookstore,Leeds,Fantasy,26-40,443,13.68,6061.52,1282.52,66691.09
+HarperCollins,Independent Bookstore,Leeds,Fantasy,41-60,169,8.55,1444.76,540.79,28120.88
+HarperCollins,Independent Bookstore,Leeds,Fantasy,60+,241,16.11,3883.14,1122.97,58394.58
+HarperCollins,Independent Bookstore,Leeds,Horror,18-25,300,9.56,2868.31,1008.65,52449.75
+HarperCollins,Independent Bookstore,Leeds,Horror,26-40,56,8.79,492.1,179.27,9322.23
+HarperCollins,Independent Bookstore,Leeds,Horror,41-60,416,13.86,5767.31,2042.1,106189.02
+HarperCollins,Independent Bookstore,Leeds,Horror,60+,107,8.01,857.32,198.72,10333.26
+HarperCollins,Independent Bookstore,Liverpool,Science Fiction,18-25,275,19.97,5490.51,1566.09,81436.82
+HarperCollins,Independent Bookstore,Liverpool,Science Fiction,26-40,446,18.25,8139.73,2485.91,129267.48
+HarperCollins,Independent Bookstore,Liverpool,Science Fiction,41-60,334,16.32,5452.28,1331.2,69222.15
+HarperCollins,Independent Bookstore,Liverpool,Science Fiction,60+,179,17.27,3092.02,760.67,39554.89
+HarperCollins,Independent Bookstore,Liverpool,Fantasy,18-25,76,18.42,1399.67,549.57,28577.9
+HarperCollins,Independent Bookstore,Liverpool,Fantasy,26-40,489,13.19,6448.94,2506.85,130356.34
+HarperCollins,Independent Bookstore,Liverpool,Fantasy,41-60,406,15.66,6358.9,1777.43,92426.47
+HarperCollins,Independent Bookstore,Liverpool,Fantasy,60+,490,13.31,6520.72,1710.97,88970.62
+HarperCollins,Independent Bookstore,Liverpool,Horror,18-25,107,18.73,2004.02,492.97,25634.52
+HarperCollins,Independent Bookstore,Liverpool,Horror,26-40,494,10.4,5139.73,1920.33,99857.11
+HarperCollins,Independent Bookstore,Liverpool,Horror,41-60,329,12.42,4086.94,1523.9,79243.05
+HarperCollins,Independent Bookstore,Liverpool,Horror,60+,257,14.52,3731.33,865.11,44985.5
+HarperCollins,Independent Bookstore,Bristol,Science Fiction,18-25,194,9.09,1764.23,407.06,21167.32
+HarperCollins,Independent Bookstore,Bristol,Science Fiction,26-40,76,18.14,1378.44,485.49,25245.69
+HarperCollins,Independent Bookstore,Bristol,Science Fiction,41-60,436,17.56,7656.85,1981.85,103056.15
+HarperCollins,Independent Bookstore,Bristol,Science Fiction,60+,73,19.05,1390.66,449.64,23381.44
+HarperCollins,Independent Bookstore,Bristol,Fantasy,18-25,95,13.55,1286.79,257.68,13399.11
+HarperCollins,Independent Bookstore,Bristol,Fantasy,26-40,322,15.29,4922.63,1228.24,63868.27
+HarperCollins,Independent Bookstore,Bristol,Fantasy,41-60,58,10.41,603.57,180.05,9362.86
+HarperCollins,Independent Bookstore,Bristol,Fantasy,60+,368,15.82,5821.11,1543.67,80270.92
+HarperCollins,Independent Bookstore,Bristol,Horror,18-25,435,17.57,7643.26,2003.09,104160.53
+HarperCollins,Independent Bookstore,Bristol,Horror,26-40,254,9.79,2487.92,728.76,37895.59
+HarperCollins,Independent Bookstore,Bristol,Horror,41-60,369,12.75,4703.47,1857.59,96594.67
+HarperCollins,Independent Bookstore,Bristol,Horror,60+,215,11.5,2472.49,838.16,43584.58
+HarperCollins,Independent Bookstore,Sheffield,Science Fiction,18-25,338,19.43,6567.94,2506.09,130316.62
+HarperCollins,Independent Bookstore,Sheffield,Science Fiction,26-40,316,13.77,4350.08,961.31,49987.99
+HarperCollins,Independent Bookstore,Sheffield,Science Fiction,41-60,450,9.23,4155.08,1305.45,67883.22
+HarperCollins,Independent Bookstore,Sheffield,Science Fiction,60+,129,13.79,1778.69,430.57,22389.47
+HarperCollins,Independent Bookstore,Sheffield,Fantasy,18-25,210,14.72,3090.31,624.1,32453.3
+HarperCollins,Independent Bookstore,Sheffield,Fantasy,26-40,402,14.21,5713.44,1243.09,64640.79
+HarperCollins,Independent Bookstore,Sheffield,Fantasy,41-60,463,8.4,3888.48,838.81,43617.88
+HarperCollins,Independent Bookstore,Sheffield,Fantasy,60+,455,11.87,5398.64,2135.12,111026.48
+HarperCollins,Independent Bookstore,Sheffield,Horror,18-25,139,16.27,2262.03,814.6,42358.96
+HarperCollins,Independent Bookstore,Sheffield,Horror,26-40,155,10.01,1551.52,342.75,17823.07
+HarperCollins,Independent Bookstore,Sheffield,Horror,41-60,366,16.48,6030.84,1244.27,64701.86
+HarperCollins,Independent Bookstore,Sheffield,Horror,60+,311,15.4,4789.17,1544.93,80336.48
+Hachette UK,Waterstones,London,Science Fiction,18-25,90,16.51,1485.79,555.97,28910.53
+Hachette UK,Waterstones,London,Science Fiction,26-40,227,15.5,3519.33,1255.29,65275.11
+Hachette UK,Waterstones,London,Science Fiction,41-60,160,17.78,2844.46,614.47,31952.42
+Hachette UK,Waterstones,London,Science Fiction,60+,133,14.64,1946.59,621.93,32340.16
+Hachette UK,Waterstones,London,Fantasy,18-25,71,13.43,953.38,313.39,16296.24
+Hachette UK,Waterstones,London,Fantasy,26-40,346,9.97,3448.93,992.33,51601.16
+Hachette UK,Waterstones,London,Fantasy,41-60,61,10.97,668.88,155.12,8066.2
+Hachette UK,Waterstones,London,Fantasy,60+,350,15.39,5386.12,1431.65,74445.72
+Hachette UK,Waterstones,London,Horror,18-25,287,12.04,3456.27,817.14,42491.46
+Hachette UK,Waterstones,London,Horror,26-40,168,13.2,2218.25,463.02,24077.06
+Hachette UK,Waterstones,London,Horror,41-60,349,14.66,5117.86,1759.73,91505.84
+Hachette UK,Waterstones,London,Horror,60+,199,11.99,2385.57,735.94,38268.74
+Hachette UK,Waterstones,Manchester,Science Fiction,18-25,108,15.8,1706.82,409.48,21293.02
+Hachette UK,Waterstones,Manchester,Science Fiction,26-40,84,10.65,894.33,253.7,13192.52
+Hachette UK,Waterstones,Manchester,Science Fiction,41-60,256,11.09,2839.6,830.65,43193.98
+Hachette UK,Waterstones,Manchester,Science Fiction,60+,399,19.53,7792.22,2206.61,114743.8
+Hachette UK,Waterstones,Manchester,Fantasy,18-25,73,13.11,956.73,257.54,13392.07
+Hachette UK,Waterstones,Manchester,Fantasy,26-40,413,17.21,7108.84,2139.54,111256.09
+Hachette UK,Waterstones,Manchester,Fantasy,41-60,99,18.4,1822.03,575.28,29914.55
+Hachette UK,Waterstones,Manchester,Fantasy,60+,469,8.35,3917.43,1093.37,56855.09
+Hachette UK,Waterstones,Manchester,Horror,18-25,277,18.48,5119.26,1946.04,101193.92
+Hachette UK,Waterstones,Manchester,Horror,26-40,311,15.86,4932.49,1965.24,102192.35
+Hachette UK,Waterstones,Manchester,Horror,41-60,235,18.95,4452.86,1078.18,56065.51
+Hachette UK,Waterstones,Manchester,Horror,60+,286,13.59,3886.67,1427.18,74213.54
+Hachette UK,Waterstones,Birmingham,Science Fiction,18-25,274,9.58,2624.59,900.67,46834.79
+Hachette UK,Waterstones,Birmingham,Science Fiction,26-40,289,15.22,4399.23,1436.39,74692.06
+Hachette UK,Waterstones,Birmingham,Science Fiction,41-60,63,19.66,1238.37,292.5,15209.92
+Hachette UK,Waterstones,Birmingham,Science Fiction,60+,374,8.83,3302.27,949.18,49357.41
+Hachette UK,Waterstones,Birmingham,Fantasy,18-25,365,12.86,4693.99,1495.43,77762.31
+Hachette UK,Waterstones,Birmingham,Fantasy,26-40,280,12.31,3447.02,1098.19,57105.78
+Hachette UK,Waterstones,Birmingham,Fantasy,41-60,375,15.83,5934.55,1557.4,80984.95
+Hachette UK,Waterstones,Birmingham,Fantasy,60+,77,11.1,854.52,283.14,14723.35
+Hachette UK,Waterstones,Birmingham,Horror,18-25,498,17.28,8606.28,1946.52,101219.15
+Hachette UK,Waterstones,Birmingham,Horror,26-40,350,10.84,3795.52,937.25,48736.75
+Hachette UK,Waterstones,Birmingham,Horror,41-60,59,8.88,524.04,122.6,6375.15
+Hachette UK,Waterstones,Birmingham,Horror,60+,142,12.04,1710.25,625.57,32529.68
+Hachette UK,Waterstones,Leeds,Science Fiction,18-25,306,13.39,4098.32,1301.53,67679.66
+Hachette UK,Waterstones,Leeds,Science Fiction,26-40,50,11.03,551.52,149.93,7796.35
+Hachette UK,Waterstones,Leeds,Science Fiction,41-60,333,8.44,2810.54,976.05,50754.35
+Hachette UK,Waterstones,Leeds,Science Fiction,60+,253,13.7,3464.98,1278.0,66456.13
+Hachette UK,Waterstones,Leeds,Fantasy,18-25,93,13.36,1242.15,463.13,24082.57
+Hachette UK,Waterstones,Leeds,Fantasy,26-40,439,10.47,4596.37,1022.16,53152.27
+Hachette UK,Waterstones,Leeds,Fantasy,41-60,419,19.84,8313.09,1867.07,97087.74
+Hachette UK,Waterstones,Leeds,Fantasy,60+,342,19.24,6579.83,1367.74,71122.52
+Hachette UK,Waterstones,Leeds,Horror,18-25,168,10.7,1797.0,424.1,22052.95
+Hachette UK,Waterstones,Leeds,Horror,26-40,108,11.79,1273.74,383.96,19966.16
+Hachette UK,Waterstones,Leeds,Horror,41-60,255,16.26,4145.92,1158.68,60251.53
+Hachette UK,Waterstones,Leeds,Horror,60+,291,19.58,5698.19,1145.27,59553.97
+Hachette UK,Waterstones,Liverpool,Science Fiction,18-25,266,15.67,4168.07,1557.12,80970.4
+Hachette UK,Waterstones,Liverpool,Science Fiction,26-40,272,11.05,3005.79,914.8,47569.59
+Hachette UK,Waterstones,Liverpool,Science Fiction,41-60,456,16.0,7297.08,1663.23,86487.73
+Hachette UK,Waterstones,Liverpool,Science Fiction,60+,433,9.59,4153.59,949.96,49397.93
+Hachette UK,Waterstones,Liverpool,Fantasy,18-25,483,10.42,5033.94,1684.79,87609.21
+Hachette UK,Waterstones,Liverpool,Fantasy,26-40,390,9.13,3559.46,1190.71,61916.95
+Hachette UK,Waterstones,Liverpool,Fantasy,41-60,401,10.81,4336.71,1702.89,88550.42
+Hachette UK,Waterstones,Liverpool,Fantasy,60+,224,16.31,3653.78,1343.21,69847.09
+Hachette UK,Waterstones,Liverpool,Horror,18-25,267,12.49,3335.25,678.73,35294.14
+Hachette UK,Waterstones,Liverpool,Horror,26-40,194,17.97,3486.28,1300.11,67605.75
+Hachette UK,Waterstones,Liverpool,Horror,41-60,418,8.36,3496.42,1350.28,70214.67
+Hachette UK,Waterstones,Liverpool,Horror,60+,351,19.02,6677.47,2137.6,111155.45
+Hachette UK,Waterstones,Bristol,Science Fiction,18-25,336,15.91,5344.63,1489.94,77476.72
+Hachette UK,Waterstones,Bristol,Science Fiction,26-40,118,14.93,1761.29,475.05,24702.45
+Hachette UK,Waterstones,Bristol,Science Fiction,41-60,499,19.99,9976.49,2091.5,108757.75
+Hachette UK,Waterstones,Bristol,Science Fiction,60+,122,18.4,2244.47,894.8,46529.36
+Hachette UK,Waterstones,Bristol,Fantasy,18-25,318,17.39,5529.58,1732.99,90115.44
+Hachette UK,Waterstones,Bristol,Fantasy,26-40,373,15.81,5895.69,2081.4,108232.99
+Hachette UK,Waterstones,Bristol,Fantasy,41-60,181,16.01,2898.01,1047.83,54487.27
+Hachette UK,Waterstones,Bristol,Fantasy,60+,131,18.53,2428.04,639.64,33261.39
+Hachette UK,Waterstones,Bristol,Horror,18-25,414,17.81,7375.0,1652.31,85920.04
+Hachette UK,Waterstones,Bristol,Horror,26-40,359,15.79,5668.21,1505.91,78307.31
+Hachette UK,Waterstones,Bristol,Horror,41-60,114,12.4,1413.32,394.65,20521.67
+Hachette UK,Waterstones,Bristol,Horror,60+,454,12.57,5704.53,1766.69,91867.96
+Hachette UK,Waterstones,Sheffield,Science Fiction,18-25,466,10.85,5056.35,1388.73,72213.83
+Hachette UK,Waterstones,Sheffield,Science Fiction,26-40,477,8.18,3899.95,1237.89,64370.47
+Hachette UK,Waterstones,Sheffield,Science Fiction,41-60,159,15.71,2498.03,878.98,45707.0
+Hachette UK,Waterstones,Sheffield,Science Fiction,60+,314,12.56,3943.03,1469.44,76410.73
+Hachette UK,Waterstones,Sheffield,Fantasy,18-25,353,18.17,6412.6,2455.05,127662.44
+Hachette UK,Waterstones,Sheffield,Fantasy,26-40,270,12.09,3265.64,901.45,46875.15
+Hachette UK,Waterstones,Sheffield,Fantasy,41-60,353,14.96,5281.61,1619.98,84238.86
+Hachette UK,Waterstones,Sheffield,Fantasy,60+,320,12.73,4074.36,1262.58,65653.91
+Hachette UK,Waterstones,Sheffield,Horror,18-25,351,16.62,5832.73,2281.21,118622.92
+Hachette UK,Waterstones,Sheffield,Horror,26-40,70,10.35,724.45,145.99,7591.3
+Hachette UK,Waterstones,Sheffield,Horror,41-60,352,8.86,3117.09,1218.57,63365.61
+Hachette UK,Waterstones,Sheffield,Horror,60+,341,19.12,6521.43,1382.89,71910.33
+Hachette UK,WHSmith,London,Science Fiction,18-25,326,13.75,4482.56,1070.94,55688.72
+Hachette UK,WHSmith,London,Science Fiction,26-40,383,13.83,5297.07,1331.45,69235.18
+Hachette UK,WHSmith,London,Science Fiction,41-60,101,16.04,1620.16,625.25,32513.14
+Hachette UK,WHSmith,London,Science Fiction,60+,205,14.47,2966.34,777.96,40453.71
+Hachette UK,WHSmith,London,Fantasy,18-25,469,16.61,7790.85,2181.29,113427.16
+Hachette UK,WHSmith,London,Fantasy,26-40,126,12.96,1633.29,366.47,19056.56
+Hachette UK,WHSmith,London,Fantasy,41-60,312,16.17,5046.11,1192.33,62001.29
+Hachette UK,WHSmith,London,Fantasy,60+,446,10.22,4555.9,1180.23,61372.04
+Hachette UK,WHSmith,London,Horror,18-25,290,14.81,4294.25,1079.2,56118.3
+Hachette UK,WHSmith,London,Horror,26-40,85,13.09,1113.02,241.98,12582.9
+Hachette UK,WHSmith,London,Horror,41-60,359,14.6,5242.38,1093.99,56887.59
+Hachette UK,WHSmith,London,Horror,60+,411,9.35,3841.89,770.36,40058.85
+Hachette UK,WHSmith,Manchester,Science Fiction,18-25,455,17.83,8112.77,3057.23,158975.81
+Hachette UK,WHSmith,Manchester,Science Fiction,26-40,442,17.52,7746.02,2550.93,132648.24
+Hachette UK,WHSmith,Manchester,Science Fiction,41-60,427,12.33,5264.6,2006.75,104351.01
+Hachette UK,WHSmith,Manchester,Science Fiction,60+,201,12.24,2460.45,608.65,31649.92
+Hachette UK,WHSmith,Manchester,Fantasy,18-25,342,11.62,3975.66,1377.13,71610.97
+Hachette UK,WHSmith,Manchester,Fantasy,26-40,149,13.08,1949.64,650.23,33811.74
+Hachette UK,WHSmith,Manchester,Fantasy,41-60,195,17.2,3353.98,771.22,40103.22
+Hachette UK,WHSmith,Manchester,Fantasy,60+,488,15.04,7339.18,1714.45,89151.56
+Hachette UK,WHSmith,Manchester,Horror,18-25,157,18.35,2881.51,701.21,36462.89
+Hachette UK,WHSmith,Manchester,Horror,26-40,199,8.28,1648.45,541.34,28149.74
+Hachette UK,WHSmith,Manchester,Horror,41-60,209,15.66,3272.01,822.51,42770.32
+Hachette UK,WHSmith,Manchester,Horror,60+,126,15.13,1906.85,570.82,29682.72
+Hachette UK,WHSmith,Birmingham,Science Fiction,18-25,307,11.29,3467.41,1107.52,57591.15
+Hachette UK,WHSmith,Birmingham,Science Fiction,26-40,195,12.85,2506.11,715.84,37223.88
+Hachette UK,WHSmith,Birmingham,Science Fiction,41-60,216,16.69,3605.95,732.6,38095.18
+Hachette UK,WHSmith,Birmingham,Science Fiction,60+,329,9.54,3138.9,693.14,36043.18
+Hachette UK,WHSmith,Birmingham,Fantasy,18-25,267,12.05,3216.48,1225.81,63742.37
+Hachette UK,WHSmith,Birmingham,Fantasy,26-40,158,8.95,1414.58,307.15,15971.79
+Hachette UK,WHSmith,Birmingham,Fantasy,41-60,402,15.15,6089.9,1706.62,88744.2
+Hachette UK,WHSmith,Birmingham,Fantasy,60+,402,10.72,4309.39,1167.84,60727.77
+Hachette UK,WHSmith,Birmingham,Horror,18-25,245,13.31,3260.69,1194.63,62120.54
+Hachette UK,WHSmith,Birmingham,Horror,26-40,493,17.6,8678.91,2141.46,111355.66
+Hachette UK,WHSmith,Birmingham,Horror,41-60,198,11.25,2228.25,709.84,36911.45
+Hachette UK,WHSmith,Birmingham,Horror,60+,116,14.4,1669.88,442.29,22999.34
+Hachette UK,WHSmith,Leeds,Science Fiction,18-25,308,10.28,3167.44,666.64,34665.5
+Hachette UK,WHSmith,Leeds,Science Fiction,26-40,221,15.94,3523.2,1097.68,57079.14
+Hachette UK,WHSmith,Leeds,Science Fiction,41-60,403,13.36,5382.56,1435.6,74651.39
+Hachette UK,WHSmith,Leeds,Science Fiction,60+,199,14.75,2934.76,1149.03,59749.77
+Hachette UK,WHSmith,Leeds,Fantasy,18-25,382,15.62,5966.66,2094.1,108893.36
+Hachette UK,WHSmith,Leeds,Fantasy,26-40,360,14.43,5194.78,1139.4,59248.68
+Hachette UK,WHSmith,Leeds,Fantasy,41-60,170,17.86,3036.49,608.05,31618.5
+Hachette UK,WHSmith,Leeds,Fantasy,60+,449,15.98,7174.54,2576.31,133967.97
+Hachette UK,WHSmith,Leeds,Horror,18-25,193,12.59,2429.93,544.22,28299.51
+Hachette UK,WHSmith,Leeds,Horror,26-40,164,9.83,1611.95,642.36,33402.65
+Hachette UK,WHSmith,Leeds,Horror,41-60,409,17.22,7044.29,1752.14,91111.03
+Hachette UK,WHSmith,Leeds,Horror,60+,335,14.25,4774.25,1550.28,80614.62
+Hachette UK,WHSmith,Liverpool,Science Fiction,18-25,280,18.38,5145.35,1655.24,86072.67
+Hachette UK,WHSmith,Liverpool,Science Fiction,26-40,87,9.91,862.31,183.35,9534.02
+Hachette UK,WHSmith,Liverpool,Science Fiction,41-60,341,11.64,3968.4,1002.51,52130.39
+Hachette UK,WHSmith,Liverpool,Science Fiction,60+,115,12.57,1445.66,389.26,20241.7
+Hachette UK,WHSmith,Liverpool,Fantasy,18-25,298,14.65,4364.4,1139.57,59257.39
+Hachette UK,WHSmith,Liverpool,Fantasy,26-40,229,11.36,2600.63,1010.28,52534.78
+Hachette UK,WHSmith,Liverpool,Fantasy,41-60,360,9.94,3578.82,1278.55,66484.73
+Hachette UK,WHSmith,Liverpool,Fantasy,60+,192,19.91,3821.93,1415.2,73590.61
+Hachette UK,WHSmith,Liverpool,Horror,18-25,61,19.17,1169.2,261.05,13574.61
+Hachette UK,WHSmith,Liverpool,Horror,26-40,131,15.54,2035.14,681.49,35437.36
+Hachette UK,WHSmith,Liverpool,Horror,41-60,207,16.66,3448.01,787.03,40925.47
+Hachette UK,WHSmith,Liverpool,Horror,60+,56,11.66,652.74,141.11,7337.87
+Hachette UK,WHSmith,Bristol,Science Fiction,18-25,454,8.27,3756.73,866.9,45078.56
+Hachette UK,WHSmith,Bristol,Science Fiction,26-40,468,12.15,5687.7,2247.33,116861.37
+Hachette UK,WHSmith,Bristol,Science Fiction,41-60,305,19.19,5853.79,1844.14,95895.1
+Hachette UK,WHSmith,Bristol,Science Fiction,60+,302,18.34,5539.94,2130.39,110780.39
+Hachette UK,WHSmith,Bristol,Fantasy,18-25,319,9.67,3084.85,1171.17,60900.87
+Hachette UK,WHSmith,Bristol,Fantasy,26-40,287,10.1,2898.14,870.93,45288.39
+Hachette UK,WHSmith,Bristol,Fantasy,41-60,474,17.9,8485.74,2827.97,147054.44
+Hachette UK,WHSmith,Bristol,Fantasy,60+,441,13.74,6058.81,1825.05,94902.35
+Hachette UK,WHSmith,Bristol,Horror,18-25,128,19.56,2503.34,775.8,40341.67
+Hachette UK,WHSmith,Bristol,Horror,26-40,337,9.46,3189.51,1017.0,52884.06
+Hachette UK,WHSmith,Bristol,Horror,41-60,80,14.07,1125.9,324.15,16855.7
+Hachette UK,WHSmith,Bristol,Horror,60+,365,18.22,6649.35,1330.31,69176.18
+Hachette UK,WHSmith,Sheffield,Science Fiction,18-25,92,15.44,1420.03,468.67,24370.6
+Hachette UK,WHSmith,Sheffield,Science Fiction,26-40,336,8.74,2935.36,1045.44,54362.67
+Hachette UK,WHSmith,Sheffield,Science Fiction,41-60,315,10.54,3320.44,985.9,51267.04
+Hachette UK,WHSmith,Sheffield,Science Fiction,60+,227,8.69,1973.39,668.99,34787.72
+Hachette UK,WHSmith,Sheffield,Fantasy,18-25,132,10.05,1326.33,285.06,14823.3
+Hachette UK,WHSmith,Sheffield,Fantasy,26-40,205,11.64,2386.06,525.43,27322.44
+Hachette UK,WHSmith,Sheffield,Fantasy,41-60,129,16.3,2102.62,680.43,35382.42
+Hachette UK,WHSmith,Sheffield,Fantasy,60+,309,19.96,6167.75,2237.62,116356.43
+Hachette UK,WHSmith,Sheffield,Horror,18-25,408,10.65,4345.05,1020.0,53040.14
+Hachette UK,WHSmith,Sheffield,Horror,26-40,469,14.32,6718.19,1916.14,99639.26
+Hachette UK,WHSmith,Sheffield,Horror,41-60,112,17.51,1960.57,550.84,28643.79
+Hachette UK,WHSmith,Sheffield,Horror,60+,305,10.34,3152.32,862.32,44840.77
+Hachette UK,Independent Bookstore,London,Science Fiction,18-25,141,13.78,1942.93,457.32,23780.69
+Hachette UK,Independent Bookstore,London,Science Fiction,26-40,135,19.57,2641.39,659.6,34299.1
+Hachette UK,Independent Bookstore,London,Science Fiction,41-60,111,13.78,1529.15,311.7,16208.38
+Hachette UK,Independent Bookstore,London,Science Fiction,60+,128,14.99,1918.18,644.88,33533.88
+Hachette UK,Independent Bookstore,London,Fantasy,18-25,425,14.42,6130.08,1489.86,77472.58
+Hachette UK,Independent Bookstore,London,Fantasy,26-40,262,18.01,4719.05,1537.75,79962.92
+Hachette UK,Independent Bookstore,London,Fantasy,41-60,230,17.62,4052.24,1588.14,82583.07
+Hachette UK,Independent Bookstore,London,Fantasy,60+,213,12.46,2653.32,671.74,34930.57
+Hachette UK,Independent Bookstore,London,Horror,18-25,444,13.45,5972.92,2203.24,114568.5
+Hachette UK,Independent Bookstore,London,Horror,26-40,232,9.79,2271.48,512.08,26628.26
+Hachette UK,Independent Bookstore,London,Horror,41-60,83,11.9,987.38,343.09,17840.44
+Hachette UK,Independent Bookstore,London,Horror,60+,281,17.73,4981.63,1608.15,83623.91
+Hachette UK,Independent Bookstore,Manchester,Science Fiction,18-25,462,13.51,6243.17,2228.83,115899.34
+Hachette UK,Independent Bookstore,Manchester,Science Fiction,26-40,446,9.6,4280.59,943.57,49065.67
+Hachette UK,Independent Bookstore,Manchester,Science Fiction,41-60,169,11.78,1991.65,672.43,34966.52
+Hachette UK,Independent Bookstore,Manchester,Science Fiction,60+,109,8.92,971.95,248.7,12932.25
+Hachette UK,Independent Bookstore,Manchester,Fantasy,18-25,291,8.46,2462.18,936.5,48697.89
+Hachette UK,Independent Bookstore,Manchester,Fantasy,26-40,326,17.9,5835.92,1745.47,90764.28
+Hachette UK,Independent Bookstore,Manchester,Fantasy,41-60,313,18.74,5866.06,1920.16,99848.38
+Hachette UK,Independent Bookstore,Manchester,Fantasy,60+,128,18.67,2390.1,693.43,36058.18
+Hachette UK,Independent Bookstore,Manchester,Horror,18-25,222,9.8,2176.05,756.15,39319.73
+Hachette UK,Independent Bookstore,Manchester,Horror,26-40,498,13.32,6633.0,1390.05,72282.72
+Hachette UK,Independent Bookstore,Manchester,Horror,41-60,249,9.02,2245.36,770.75,40079.12
+Hachette UK,Independent Bookstore,Manchester,Horror,60+,158,17.63,2784.84,615.65,32014.02
+Hachette UK,Independent Bookstore,Birmingham,Science Fiction,18-25,66,19.48,1285.55,446.73,23229.98
+Hachette UK,Independent Bookstore,Birmingham,Science Fiction,26-40,363,13.54,4916.24,1958.23,101827.73
+Hachette UK,Independent Bookstore,Birmingham,Science Fiction,41-60,485,17.3,8388.48,2787.28,144938.35
+Hachette UK,Independent Bookstore,Birmingham,Science Fiction,60+,77,12.26,943.87,266.57,13861.88
+Hachette UK,Independent Bookstore,Birmingham,Fantasy,18-25,310,15.92,4936.33,1741.9,90579.0
+Hachette UK,Independent Bookstore,Birmingham,Fantasy,26-40,369,13.09,4830.79,1045.98,54390.91
+Hachette UK,Independent Bookstore,Birmingham,Fantasy,41-60,417,19.61,8179.17,2119.13,110194.92
+Hachette UK,Independent Bookstore,Birmingham,Fantasy,60+,305,10.73,3273.9,1293.84,67279.71
+Hachette UK,Independent Bookstore,Birmingham,Horror,18-25,483,8.13,3924.44,985.36,51238.65
+Hachette UK,Independent Bookstore,Birmingham,Horror,26-40,373,17.3,6451.26,2121.05,110294.65
+Hachette UK,Independent Bookstore,Birmingham,Horror,41-60,427,13.74,5866.58,2224.39,115668.26
+Hachette UK,Independent Bookstore,Birmingham,Horror,60+,315,17.58,5539.14,1432.22,74475.67
+Hachette UK,Independent Bookstore,Leeds,Science Fiction,18-25,307,15.22,4673.33,1479.04,76909.94
+Hachette UK,Independent Bookstore,Leeds,Science Fiction,26-40,400,14.25,5699.69,1842.71,95820.84
+Hachette UK,Independent Bookstore,Leeds,Science Fiction,41-60,275,9.54,2622.72,701.98,36502.91
+Hachette UK,Independent Bookstore,Leeds,Science Fiction,60+,473,15.18,7181.27,1572.71,81781.12
+Hachette UK,Independent Bookstore,Leeds,Fantasy,18-25,364,14.6,5314.8,1476.08,76756.31
+Hachette UK,Independent Bookstore,Leeds,Fantasy,26-40,163,19.32,3148.66,781.3,40627.76
+Hachette UK,Independent Bookstore,Leeds,Fantasy,41-60,262,16.11,4221.29,1263.05,65678.59
+Hachette UK,Independent Bookstore,Leeds,Fantasy,60+,162,15.75,2551.46,656.19,34121.72
+Hachette UK,Independent Bookstore,Leeds,Horror,18-25,81,11.8,956.05,359.33,18685.39
+Hachette UK,Independent Bookstore,Leeds,Horror,26-40,317,19.03,6031.6,1510.6,78551.33
+Hachette UK,Independent Bookstore,Leeds,Horror,41-60,446,10.65,4751.13,1879.92,97756.1
+Hachette UK,Independent Bookstore,Leeds,Horror,60+,351,16.74,5876.4,2087.82,108566.85
+Hachette UK,Independent Bookstore,Liverpool,Science Fiction,18-25,285,8.65,2464.2,650.58,33830.0
+Hachette UK,Independent Bookstore,Liverpool,Science Fiction,26-40,199,19.82,3943.39,1527.98,79454.74
+Hachette UK,Independent Bookstore,Liverpool,Science Fiction,41-60,334,16.74,5589.61,1238.6,64406.95
+Hachette UK,Independent Bookstore,Liverpool,Science Fiction,60+,262,16.71,4378.48,1591.83,82775.04
+Hachette UK,Independent Bookstore,Liverpool,Fantasy,18-25,144,13.86,1995.95,459.34,23885.54
+Hachette UK,Independent Bookstore,Liverpool,Fantasy,26-40,93,16.79,1561.81,481.74,25050.23
+Hachette UK,Independent Bookstore,Liverpool,Fantasy,41-60,238,16.92,4027.22,1298.33,67513.02
+Hachette UK,Independent Bookstore,Liverpool,Fantasy,60+,167,14.78,2468.3,833.74,43354.3
+Hachette UK,Independent Bookstore,Liverpool,Horror,18-25,344,14.93,5134.57,1927.66,100238.29
+Hachette UK,Independent Bookstore,Liverpool,Horror,26-40,278,9.92,2758.0,806.19,41922.13
+Hachette UK,Independent Bookstore,Liverpool,Horror,41-60,193,17.74,3424.02,1192.73,62022.0
+Hachette UK,Independent Bookstore,Liverpool,Horror,60+,52,19.9,1034.89,227.51,11830.29
+Hachette UK,Independent Bookstore,Bristol,Science Fiction,18-25,273,18.56,5066.28,1679.53,87335.69
+Hachette UK,Independent Bookstore,Bristol,Science Fiction,26-40,59,16.91,997.58,362.15,18831.59
+Hachette UK,Independent Bookstore,Bristol,Science Fiction,41-60,268,10.26,2748.69,745.11,38745.5
+Hachette UK,Independent Bookstore,Bristol,Science Fiction,60+,62,14.46,896.79,273.37,14215.24
+Hachette UK,Independent Bookstore,Bristol,Fantasy,18-25,283,17.13,4848.32,1003.91,52203.07
+Hachette UK,Independent Bookstore,Bristol,Fantasy,26-40,258,8.13,2098.15,734.16,38176.48
+Hachette UK,Independent Bookstore,Bristol,Fantasy,41-60,486,12.42,6033.83,1601.3,83267.4
+Hachette UK,Independent Bookstore,Bristol,Fantasy,60+,292,18.1,5286.26,1554.5,80833.95
+Hachette UK,Independent Bookstore,Bristol,Horror,18-25,260,19.96,5188.56,1419.91,73835.43
+Hachette UK,Independent Bookstore,Bristol,Horror,26-40,430,15.72,6759.76,2407.02,125164.86
+Hachette UK,Independent Bookstore,Bristol,Horror,41-60,276,9.65,2664.47,886.22,46083.7
+Hachette UK,Independent Bookstore,Bristol,Horror,60+,359,16.35,5868.72,1177.52,61231.14
+Hachette UK,Independent Bookstore,Sheffield,Science Fiction,18-25,87,10.0,870.23,205.6,10691.38
+Hachette UK,Independent Bookstore,Sheffield,Science Fiction,26-40,478,9.12,4357.39,1384.08,71972.4
+Hachette UK,Independent Bookstore,Sheffield,Science Fiction,41-60,53,14.12,748.43,257.97,13414.41
+Hachette UK,Independent Bookstore,Sheffield,Science Fiction,60+,278,14.96,4158.83,1298.79,67537.0
+Hachette UK,Independent Bookstore,Sheffield,Fantasy,18-25,437,8.63,3772.9,1121.76,58331.42
+Hachette UK,Independent Bookstore,Sheffield,Fantasy,26-40,207,17.66,3655.59,928.39,48276.25
+Hachette UK,Independent Bookstore,Sheffield,Fantasy,41-60,109,11.87,1293.32,423.3,22011.62
+Hachette UK,Independent Bookstore,Sheffield,Fantasy,60+,260,8.7,2262.68,603.79,31397.11
+Hachette UK,Independent Bookstore,Sheffield,Horror,18-25,79,19.78,1562.91,378.17,19665.05
+Hachette UK,Independent Bookstore,Sheffield,Horror,26-40,405,14.21,5753.93,1657.36,86182.73
+Hachette UK,Independent Bookstore,Sheffield,Horror,41-60,277,9.47,2622.78,910.37,47339.24
+Hachette UK,Independent Bookstore,Sheffield,Horror,60+,195,12.46,2429.13,516.21,26842.93
